@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\jargalbat.j\\Documents\\Flutter local\\demo_api\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\jargalbat.j\\Documents\\Flutter\\flutter_empty\\build\\app\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\jargalbat.j\\Documents\\Flutter local\\demo_api\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\jargalbat.j\\Documents\\Flutter\\flutter_empty\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

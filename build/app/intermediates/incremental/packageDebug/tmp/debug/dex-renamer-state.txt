@@ -1,4 +1,4 @@
-#Mon Dec 09 10:24:54 ULAT 2019
-base.0=C\:\\Users\\jargalbat.j\\Documents\\Flutter local\\demo_api\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
+#Mon Dec 09 10:40:26 ULAT 2019
+base.0=C\:\\Users\\jargalbat.j\\Documents\\Flutter\\flutter_empty\\build\\app\\intermediates\\transforms\\dexMerger\\debug\\0
 path.0=classes.dex
 renamed.0=classes.dex
